@@ -11,19 +11,18 @@ st.markdown('<style>body{color: white; text-align: center;}</style>',unsafe_allo
 st.write("")
 st.write("")
 st.write("")
-st.write("")
 
 classes = {
-        0: '0',
-        1: '1',
-        2: '2',
-        3: '3',
-        4: '4',
-        5: '5',
-        6: '6',
-        7: '7',
-        8: '8',
-        9: '9'
+        0: '0 - Zero',
+        1: '1 - One',
+        2: '2 - Two',
+        3: '3 - Three',
+        4: '4 - Four',
+        5: '5 - Five',
+        6: '6 - Six',
+        7: '7 - Seven',
+        8: '8 - Eight',
+        9: '9 - Nine'
       }
 
 st.title("MNIST Classifier")
