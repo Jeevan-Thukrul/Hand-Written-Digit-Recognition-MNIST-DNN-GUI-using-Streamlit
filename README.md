@@ -19,7 +19,7 @@ i.e., a model that classifies them correctly using Feedforward Neural Networks.
 
 ### MNIST_2.ipynb
 - Google Colab Notebook
-- It is the python notebook used to bild and save the model.
+- It is the python notebook used to build and save the model.
 
 ## Files for our Streamlit App
 
