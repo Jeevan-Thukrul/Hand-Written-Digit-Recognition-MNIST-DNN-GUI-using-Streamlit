@@ -1,7 +1,7 @@
 # Hand-Written-Digit-Recognition-MNIST-DNN-GUI-using-Streamlit
 
 ## App Output
-![alt text](https://github.com/Jeevan-Thukrul/Hand-Written-Digit-Recognition-MNIST-DNN-GUI-using-Streamlit/blob/master/Output/2173244_MNIST_DNN.mp4)
+![alt text](Output/2173244_MNIST_DNN.gif)
 
 ## Project overview
 - The aim of this project is to develop a model for Handwritten Digit recognition and integrate it with the GUI, 
