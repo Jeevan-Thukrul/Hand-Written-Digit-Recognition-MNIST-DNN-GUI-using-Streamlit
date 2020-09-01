@@ -38,5 +38,5 @@ i.e., a model that classifies them correctly using Feedforward Neural Networks.
 - In your Command line/Terminal go to the directory file then type
  
 ```
-# streamlit run app.py
+ streamlit run app.py
 ```
