@@ -35,6 +35,8 @@ i.e., a model that classifies them correctly using Feedforward Neural Networks.
 - Install all the dependencies
 - Clone this repository
 - You need the Streamlit App folder to run this application.
-- In your Command line/Terminal go to the directory file then type 
-
-#### streamlit run app.py
+- In your Command line/Terminal go to the directory file then type
+ 
+```
+# streamlit run app.py
+```
